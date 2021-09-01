@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Stefania</h1>
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [a WordPress Blog replica](https://github.com/Stefania9797/laravel-boolpress)
+- 🔭 I’m currently working on [A Deliveroo Replica using HTML, CSS, JS, Vue.js, Laravel](https://github.com/stetaf/team4_deliveboo)
 
-- 🌱 I’m currently learning **Laravel x7**
+- 🌱 I’m currently learning **Laravel 7x**
 
 - 📫 How to reach me **stefaniamastrel@gmail.com**
 
